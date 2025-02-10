@@ -1,0 +1,9 @@
+.slider-height{background-image:url(../img/hero/rathis.png);
+
+        background-repeat: no-repeat; /* Prevents the image from repeating */
+        background-position: right 45%; /* Position it to the left */
+        background-size: 37%; /* Adjust the size (optional) */
+        image-rendering: crisp-edges;
+        image-resolution: 1000%;
+        image-orientation: initial;
+}
